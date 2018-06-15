@@ -15,5 +15,19 @@
   "bugs": {
     "url": "https://github.com/jpablopachar/mean-blog/issues"
   },
-  "homepage": "https://github.com/jpablopachar/mean-blog#readme"
+  "homepage": "https://github.com/jpablopachar/mean-blog#readme",
+  "dependencies": {
+    "bcrypt-nodejs": "^0.0.3",
+    "connect-multiparty": "^2.1.0",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "jwt-simple": "^0.5.1",
+    "mongoose": "^5.1.5",
+    "morgan": "^1.9.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.12.0"
+  }
 }
